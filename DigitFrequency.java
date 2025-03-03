@@ -22,8 +22,5 @@ public class DigitFrequency {
                 System.out.println("Digit " + i + ": " + frequency[i]);
             }
         }
-
-        // Close the scanner
-        scanner.close();
     }
 }
