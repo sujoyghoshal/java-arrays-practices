@@ -18,7 +18,7 @@ public class Copy2DTo1D {
                 matrix[i][j] = sc.nextInt();
                 array[index++] = matrix[i][j]; // Copy to 1D array
             }
-        }
+        } 
 
         // Display 1D array
         System.out.print("1D Array: ");
