@@ -10,7 +10,7 @@ public class Copy2DTo1D {
         int[][] matrix = new int[rows][columns];
         int[] array = new int[rows * columns];
         int index = 0;
-
+ 
         // Take user input for 2D array
         for (int i = 0; i < rows; i++) {
             for (int j = 0; j < columns; j++) {
